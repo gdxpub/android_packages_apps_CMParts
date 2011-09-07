@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ 	<string name="app_name">Pengaturan CyanogenMod</string>
+ 	 <string name="application_settings_title_head">Aplikasi</string>
+ 	 <string name="application_settings_title_subhead">Konfigurasi Aplikasi</string>
+ 	 <string name="application_settings_summary_head">Perpindahan Aplikasi, lokasi instalasi, pembatasan komunikasi</string>
+ 	 <string name="display_settings_title_head">Layar</string>
+ 	 <string name="display_settings_title_subhead">Konfigurasi Layar</string>
+ 	 <string name="display_settings_summary_head">Animasi Layar, rotasi dan waktu habis layar</string>
+  	<string name="input_settings_title_head">Input</string>
+  	<string name="input_settings_title_subhead">Konfigurasi fungsi tombol</string>
+  	<string name="input_settings_summary_head">Perilaku tombol dan Umpan balik</string>
+  	<string name="interface_settings_title_head">Tampilan</string>
+  	<string name="interface_settings_title_subhead">Konfigurasi Tampilan</string>
+  	<string name="interface_settings_summary_head">Modifikasi tampilan, overscrolling, efek render</string>
+  	<string name="lockscreen_settings_title_head">Layar Kunci</string>
+  	<string name="lockscreen_settings_title_subhead">Konfigurasi Lockscreen</string>
+ 	 <string name="lockscreen_settings_summary_head">Gaya dan opsi buka kunci</string>
+  	<string name="performance_settings_title_head">Performa</string>
+  	<string name="performance_settings_title_subhead">Konfigurasi Performa</string>
+ 	 <string name="performance_settings_summary_head">Modifikasi performa, JIT, besar size VM></string>
+  	<string name="sound_settings_title_head">Suara</string>
+  	<string name="sound_settings_title_subhead">Konfigurasi Suara</string>
+  	<string name="sound_settings_summary_head">Volume suara, fokus audio, jam diam</string>
+ 	 <string name="system_settings_title_head">Sistem</string>
+ 	 <string name="system_settings_title_subhead">Konfigurasi sistem</string>
+  	<string name="system_settings_summary_head">Perubahan sistem, statistik, notifikasi akan update</string>
+  	<string name="updatenotify_title">Notifikasi Update</string>
+  	<string name="updatenotify_summary">Mendapatkan pengingat akan update</string>
+ 	 <string name="pref_electron_beam_animation_on">Animasi aktif. Layar</string>
+ 	 <string name="pref_electron_beam_animation_off">Animasi non-aktif. Layar</string>
+ 	 <string name="tablet_tweaks_title_head">Modif Tablet</string>
 	<!-- dx -->
 	<!-- GingerDX settings -->
 	<string name="gingerdx_settings_title">Pengaturan GingerDX</string>
